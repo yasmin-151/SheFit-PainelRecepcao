@@ -1,0 +1,10 @@
+{
+  "description": "Manage gym operations efficiently with a user-friendly dashboard that streamlines member management, scheduling, and performance tracking for fitness centers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
